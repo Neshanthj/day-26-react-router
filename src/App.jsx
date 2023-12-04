@@ -22,10 +22,10 @@ const Coures_Details = [
   {
     type: "all",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2023/11/Devops-best-practices.png",
-    title: "10 Best DevOps Practices You Should Know",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Top-IT-Jobs-for-Commerce-Students.webp",
+    title: "Top IT Jobs for Commerce Students: A Lucrative Career Path",
     description:
-      "In the ever-evolving realm of software development, embracing DevOps has become more than just a",
+      "With the rapid advancement of technology, the demand for IT professionals has soared in recent",
     date: "2 December 2023 ",
     comments: "No Comments",
   },
@@ -132,30 +132,30 @@ const Coures_Details = [
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
-    title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
+      "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-What-Is-Hacking_-Types-of-Hacking-More.webp",
+    title: "What Is Hacking? Types of Hacking & More",
     description:
-      "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
+      "Have you ever wondered what hacking is all about? It’s a big deal in today’s",
     date: "27 December 2022",
     comments: "No Comments",
   },
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/8bfd01c18be1b5059bc0d7770d9dabf1.gif",
-    title: "Is coding required for cybersecurity? If yes, how crucial is coding for cybersecurity?",
+      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+    title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
     description:
-      "Many people ask how important is coding for cybersecurity, and the lawyerly answer is: Well,",
+      "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
     date: "22 June 2022",
     comments: "No Comments",
   },
   {
     type: "cyberSecurity",
     image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/06/Types-of-Cyber-Security-Attacks-and-How-to-Minimize-the-Impact.jpg",
-    title: "Top 7 Cyber Security Attacks in Real Life",
+      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
+    title: "8 Different Types of Cybersecurity and Threats Involved",
     description:
-      "Cyber security attacks are the type of actions that are designed to destroy, steal, modify,",
+      "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
     date: "10 June 2022",
     comments: "No Comments",
   },
