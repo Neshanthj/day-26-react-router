@@ -139,26 +139,6 @@ const Coures_Details = [
     date: "27 December 2022",
     comments: "No Comments",
   },
-  {
-    type: "cyberSecurity",
-    image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
-    title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
-    description:
-      "Cybersecurity & Ethical hacking and have been key in making sure that your data online",
-    date: "22 June 2022",
-    comments: "No Comments",
-  },
-  {
-    type: "cyberSecurity",
-    image:
-      "https://www.guvi.in/blog/wp-content/uploads/2022/11/Teal-Illustration-Digital-Business-Blog-Banner-1-2048x1152.png",
-    title: "8 Different Types of Cybersecurity and Threats Involved",
-    description:
-      "Cybersecurity refers to the protection of devices, processes, infrastructure, and assets of the organization from",
-    date: "10 June 2022",
-    comments: "No Comments",
-  },
 ];
 
 // This the Main App Component
